@@ -1,7 +1,3 @@
-Dưới đây là phần **README description** chuyên nghiệp, ngắn gọn nhưng đầy đủ để bạn dùng cho project này (có thể paste trực tiếp vào GitHub):
-
----
-
 # 📊 Loan Risk Prediction & Data Analysis
 
 ## 📌 Overview
